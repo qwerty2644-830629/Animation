@@ -1,7 +1,5 @@
 # 🎞️ Animation Practice in Unity
 
-## English Description
-
 A personal exploration into Unity’s animation capabilities, focusing on ShaderLab, HLSL, and scripting techniques.  
 This project serves as an experimental playground to refine visual effects and movement logic in a Unity environment.  
 Ideal for those studying game art, visual scripting, and custom shader creation.
@@ -20,7 +18,8 @@ Free artworks and exclusive discounts are available!
 
 ---
 
-## 中文說明（繁體）
+
+
 
 本專案為 Unity 動畫功能的個人探索，聚焦於 ShaderLab、HLSL 及腳本技術。  
 此專案為視覺特效與移動邏輯的實驗場域，適合正在學習遊戲美術、視覺腳本，以及自訂著色器製作的人使用。
